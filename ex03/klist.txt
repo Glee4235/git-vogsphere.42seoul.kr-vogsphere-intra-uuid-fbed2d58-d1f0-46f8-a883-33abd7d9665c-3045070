@@ -1,0 +1,5 @@
+API:48457C29-21C8-4DB1-BEE0-121BDBDD647F
+        Principal: glee@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan 20 18:03:57 2020  Jan 21 04:03:52 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
